@@ -194,3 +194,7 @@ or, looking at the whole pictures:
 ![alt text](images/ReadMe/image-20.png)
 
 Addition was indeed all we needed here :)
+
+---
+
+UPD: the accompanying dirty notebook can be found [here](https://colab.research.google.com/drive/1AnAJzTLzxNlP4Lcst6zPHzyT9hQM2FpV?usp=sharing); I do not plan to clean it up, but better with dirty code than without any. You need to put the example images and backdoor file to the corresponding folders by using google drive or uploading manually.
